@@ -62,6 +62,6 @@ You can [download](https://play.google.com/store/apps/details?id=com.queenstech.
 
 
 --
-<!--> Instagram [@er_sabin](https://www.instagram.com/er_sabin/)\-->
+
 > GitHub [@MichaelGuldborg](https://github.com/MichaelGuldborg)\
 > Website [michaelguldborg.dk](http://michaelguldborg.dk)
